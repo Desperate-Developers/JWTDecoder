@@ -13,6 +13,7 @@ import javafx.geometry.Rectangle2D;
  * JWTDecoder Application
  * 
  * @author John McNeil and Josh James
+ * Added some comment for test
  */
 public class Jwt_Decoder_App extends Application {
 	@Override
